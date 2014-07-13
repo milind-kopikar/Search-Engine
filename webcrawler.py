@@ -3,6 +3,7 @@ Created on May 24, 2014
 
 @author: Milind
 '''
+#usage: 
 # The crawl_web procedure to take a second parameter,
 # max_depth, that limits the depth of the search.  We can 
 # define the depth of a page as the number of links that must
@@ -18,6 +19,7 @@ Created on May 24, 2014
 # also include all pages that are linked to by these pages.
 #
 # Note that the pages in the crawl may be in any order.
+#
 #
 
 
